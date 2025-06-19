@@ -127,8 +127,8 @@ or basic biological research.
   * Exercises
     * [Extending Jupyter notebooks using AI](09a_code_generation/extending_jupyter_notebooks.ipynb)
     * [Long context prompting](09a_code_generation/long_context_prompting.ipynb)
-    * [Text embeddings](10-text-embeddings.ipynb)
-    * [RAG](20-simple-rag.ipynb)
+    * [Text embeddings](09b_rag/10-text-embeddings.ipynb)
+    * [RAG](09b_rag/20-simple-rag.ipynb)
     * [Function calling](09c_function_calling/10_function_calling.ipynb)
 
 

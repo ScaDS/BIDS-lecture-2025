@@ -119,6 +119,18 @@ or basic biological research.
     * [Programming a Chatbot](08b_chatbot/gui.ipynb)
     * [LLMs guessing which image processing algorithm to use](08c_guess_library/guess_library.ipynb)
 
+* [LLMs for code generation](09_Code_Generation.pdf) (June 20th 2025)
+  * Prompt Engineering (continued)
+  * Retrieval-augmented Generation
+  * Function Calling
+  * AI Agents
+  * Exercises
+    * [Extending Jupyter notebooks using AI](09a_code_generation/extending_jupyter_notebooks.ipynb)
+    * [Long context prompting](09a_code_generation/long_context_prompting.ipynb)
+    * [Text embeddings](10-text-embeddings.ipynb)
+    * [RAG](20-simple-rag.ipynb)
+    * [Function calling](09c_function_calling/10_function_calling.ipynb)
+
 
 ## Assignments
 

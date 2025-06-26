@@ -130,7 +130,16 @@ or basic biological research.
     * [Text embeddings](09b_rag/10-text-embeddings.ipynb)
     * [RAG](09b_rag/20-simple-rag.ipynb)
     * [Function calling](09c_function_calling/10_function_calling.ipynb)
-
+    
+* [Multi-Modal Language Models](10_MultiModal_LMs.pdf) (June 27th 2025)
+  * Vision language models
+  * Image Generation
+  * Exercises
+    * Prompting with images: [ollama](10a_vision/20_vision_ollama.ipynb), [kisski](10a_vision/21_vision_kisski.ipynb) (choose one)
+    * [Bounding-Box segmentation](10a_vision/23_vision_bb_segmentation.ipynb)
+    * [Image generation](10b_image_generation/30_generating_images_using_huggingface.ipynb)
+    * [Image inpainting](10b_image_generation/50_inpainting_huggingface.ipynb)
+  * [Exam preparation (optional)](https://github.com/ScaDS/SlideInsights-for-BIDS-lecture-25)
 
 ## Assignments
 

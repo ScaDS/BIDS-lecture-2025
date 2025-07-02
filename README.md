@@ -141,6 +141,16 @@ or basic biological research.
     * [Image inpainting](10b_image_generation/50_inpainting_huggingface.ipynb)
   * [Exam preparation (optional)](https://github.com/ScaDS/SlideInsights-for-BIDS-lecture-25)
 
+* [Research Data Management](11_RDM.pdf) (July 4th 2025)
+  * Data Management Plans
+  * Good Scientific Practice
+  * Sharing & Licensing
+  * Exercises
+    * [Install dependencies](11a_remote_files/readme.md)
+    * [Working with files in the (next)cloud](11a_remote_files/nextcloud.ipynb)
+    * [Working with meta data: DOI](11b_meta_data/exploring_doi.ipynb)
+    * [Working with meta data: Zenodo](11b_meta_data/exploring_zenodo.ipynb)
+
 ## Assignments
 
 As explained in the lecture on May 9th, every enrolled student has to submit an image analysis workflow + documentation. The workflows are intended to process different datasets. Each student gets their own dataset. Download the zipfile corresponding to your MatNr and unzip it. The password was given to you in the lecture on May 9th.

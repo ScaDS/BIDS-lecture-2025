@@ -151,6 +151,12 @@ or basic biological research.
     * [Working with meta data: DOI](11b_meta_data/exploring_doi.ipynb)
     * [Working with meta data: Zenodo](11b_meta_data/exploring_zenodo.ipynb)
 
+* [Summary](12_Summary_BIDS_2025.pdf) (July 11th 2025)
+  * Exercises
+    * [Test yourself: BIDS exam 2024](12_summary/BIDS_exam_2024.pdf)
+    * [Test yourself: Use AI to generate random exam questions from slides](https://github.com/ScaDS/SlideInsights-for-BIDS-lecture-25)
+    * [Test yourself: Reproducing image analysis workflows](https://github.com/haesleinhuepf/bia-bubbles)
+
 ## Assignments
 
 As explained in the lecture on May 9th, every enrolled student has to submit an image analysis workflow + documentation. The workflows are intended to process different datasets. Each student gets their own dataset. Download the zipfile corresponding to your MatNr and unzip it. The password was given to you in the lecture on May 9th.
